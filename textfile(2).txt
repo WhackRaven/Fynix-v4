@@ -1,0 +1,357 @@
+📘 PRODUCT REQUIREMENTS DOCUMENT (PRD)
+
+🧩 Produktname
+
+Fynix – Learn Different
+
+⸻
+
+🎯 Produktvision
+
+Fynix ist eine mobile-first, gamifizierte Lern-, Selbstoptimierungs- und Fokus-App für Jugendliche (12–18), die das TikTok-Scroll-Gefühl nutzt, um echtes Lernen, bessere Gewohnheiten und smarteren Umgang mit Zeit & Geld zu fördern.
+Ziel ist es, Dopamin nicht zu verbieten, sondern umzuleiten.
+
+Kurz gesagt:
+Scrollen, aber schlauer rauskommen.
+
+⸻
+
+👥 Zielgruppe
+	•	Alter: 12–18
+	•	Schüler:innen (Gymnasium, Mittelstufe, Oberstufe)
+	•	Kurze Aufmerksamkeitsspanne
+	•	Gewöhnt an TikTok, Reels, Shorts
+	•	Wenig Struktur, wenig Geld, viel Potenzial
+
+⸻
+
+🚀 Produktziele (Goals)
+	1.	Lernen fühlt sich nicht wie Schule an
+	2.	Tägliche Nutzung durch Motivation statt Zwang
+	3.	Reduktion von Zeitverschwendung (v. a. Social Media)
+	4.	Verbesserung von:
+	•	Schulnoten
+	•	Gewohnheiten
+	•	Geldverständnis
+
+⸻
+
+🧠 Kernkonzept
+	•	Endless Scroll Feed wie TikTok
+	•	Nach jedem Swipe → Quiz
+	•	XP-, Level-, Streak- und Rangsystem
+	•	AI-Agent zur Personalisierung
+	•	Maskottchen-Feedback (emotional & visuell)
+
+⸻
+
+🧱 CORE FEATURES (MUST-HAVE)
+
+1️⃣ Endless Learning Feed
+	•	Vertikaler Scroll-Feed
+	•	Karten mit:
+	•	Lernstoff
+	•	Mini-Erklärungen
+	•	Fun Facts
+	•	Feed endet nie (Loop-System)
+
+⸻
+
+2️⃣ Swipe-to-Quiz Mechanik
+	•	Nach jedem Swipe erscheint ein Quiz
+	•	Quiz-Typen:
+	•	True / False
+	•	Multiple Choice (2–4 Optionen)
+	•	Quiz ist immer inhaltlich an die vorherige Karte gebunden
+
+⸻
+
+3️⃣ XP- & Level-System
+	•	Richtige Antwort → XP
+	•	Falsche Antwort → XP-Abzug + Roast
+	•	Level-Ups nur durch XP-Grenzen
+
+XP-Progression (Beispiel):
+	•	Level 1–5: 10 XP
+	•	Level 6–15: 20 XP
+	•	Level 16–40: 35 XP
+	•	Danach progressiv steigend
+
+⸻
+
+4️⃣ Streak-System
+	•	7 Tage → +5 % XP
+	•	14 Tage → +10 % XP
+	•	21 Tage → +50 % XP
+	•	Streak bricht bei Inaktivität
+
+⸻
+
+5️⃣ Maskottchen-System
+
+Hauptmaskottchen: Fynix
+	•	Cartoon-Stil, dicke Linien
+	•	Farben: Lila, Blau, mystisch
+
+Emotionen / States:
+	•	Neutral
+	•	Happy
+	•	Wütend
+	•	Schlafend
+	•	Lachend
+	•	Heulend
+	•	Denkend
+	•	Thron-Pose
+
+Reagiert auf:
+	•	Quiz-Ergebnisse
+	•	XP-Änderungen
+	•	Habit-Aktionen
+	•	Zeitverschwendung
+
+⸻
+
+6️⃣ Roast- & Feedback-System
+	•	Fehler → Roast (je nach Roast-Level)
+	•	Negative Habits → XP-Abzug + Kommentar
+	•	Ziel nicht erreicht → XP-Abzug ohne Roast
+
+⸻
+
+🧠 ERWEITERTE FEATURES (SHOULD-HAVE)
+
+7️⃣ Habit-Tracker (Gamified)
+	•	Positive & negative Habits
+	•	Wiederholungen möglich (z. B. Klimmzüge)
+	•	AI bewertet:
+	•	Schwierigkeit
+	•	XP-Wert
+	•	Mehr Wiederholungen = mehr XP
+
+⸻
+
+8️⃣ Money-Tracker
+	•	Einnahmen & Ausgaben manuell eintragen
+	•	AI kategorisiert automatisch
+	•	Sparen → XP
+	•	Meilensteine (z. B. 100 €) → Rang „MoneyMaster“
+	•	Sichtbarkeit optional (Privatsphäre)
+
+⸻
+
+9️⃣ Joker & Truhen
+	•	Joker mit XP kaufbar
+	•	Joker-Beispiele:
+	•	Quiz skippen
+	•	Fehler zählt nicht
+	•	Truhen enthalten:
+	•	Profilbilder
+	•	Booster
+	•	kosmetische Items
+
+⸻
+
+🔟 Profile & Avatare
+	•	Cartoon-Profilbilder (Menschen, kein Maskottchen)
+	•	XP- & Rang-Anzeige
+	•	Privatsphäre-Option:
+	•	Andere sehen meine Daten oder nicht
+
+⸻
+
+🔐 LOGIN & ONBOARDING
+
+Ziel
+	•	Emotionaler Einstieg
+	•	Frühe Personalisierung
+	•	AI direkt mit Kontext füttern
+	•	Kein klassisches „Account erstellen“-Gefühl
+
+⸻
+
+Onboarding-Flow
+	1.	Splash Screen
+	2.	Login / Gastmodus
+	3.	Personalisierungsfragen
+	4.	Übergang in Homefeed
+
+Dauer: max. 60–90 Sekunden
+
+⸻
+
+Splash Screen
+	•	Dunkler, mystischer Hintergrund
+	•	Fynix (neutral)
+	•	Claim:
+
+„Scroll smarter.“
+Lernen. Gewohnheiten. Kontrolle.
+
+Button: „Los geht’s“
+
+⸻
+
+Login / Sign-Up
+
+Optionen:
+	•	Weiter ohne Account
+	•	Mit E-Mail
+	•	Später: Apple / Google
+
+Hinweis:
+„Kein Spam. Keine Datenkrake.“
+
+⸻
+
+Personalisierungsfragen (Cards)
+
+Allgemein:
+	•	Eine Frage pro Screen
+	•	Swipe oder Button
+	•	Fortschrittsanzeige (z. B. 3 / 7)
+	•	Überspringbar
+	•	XP-Bonus bei vollständigem Abschluss
+
+⸻
+
+Frage 1 – Schule
+„Was ist gerade dein größtes Schulproblem?“
+
+Optionen:
+	•	Lernen fühlt sich sinnlos an
+	•	Ich lerne zu spät
+	•	Handy killt meinen Fokus
+	•	Prüfungen stressen
+	•	Eigentlich läuft’s
+
+Einfluss:
+	•	Lerninhalte
+	•	Roast-Level
+	•	Feed-Gewichtung
+
+⸻
+
+Frage 2 – Klassenstufe
+„Wo steckst du gerade?“
+
+Optionen:
+	•	Unterstufe
+	•	Mittelstufe
+	•	Oberstufe
+
+Einfluss:
+	•	Schwierigkeit der Inhalte
+
+⸻
+
+Frage 3 – Lernzeit
+„Wann lernst du meistens?“
+
+Optionen:
+	•	Am Klo
+	•	Heimlich nachts
+	•	Kurz vor Tests
+	•	Geplant
+
+Einfluss:
+	•	Reminder-Timing
+	•	Feedback-Ton
+
+⸻
+
+Frage 4 – Motivation
+„Warum bist du hier?“
+
+Optionen:
+	•	Bessere Noten
+	•	Weniger Zeit verschwenden
+	•	Disziplin aufbauen
+	•	Geld checken
+	•	Alles davon
+
+⸻
+
+Frage 5 – Gewohnheiten
+„Was nervt dich an dir selbst?“ (Mehrfachauswahl)
+
+Optionen:
+	•	Zu viel Handy
+	•	Zu viel Fastfood
+	•	Zu viel Zocken
+	•	Zu wenig Schlaf
+	•	Keine Struktur
+
+Einfluss:
+	•	Automatische Erstellung negativer Habits
+
+⸻
+
+Frage 6 – Tonfall
+„Wie streng darf Fynix sein?“
+
+Slider 1–5:
+	•	Nett → gnadenloser Roast
+
+⸻
+
+Frage 7 – 30-Tage-Ziel
+„Was wäre ein Win in 30 Tagen?“
+
+Optionen:
+	•	Bessere Note
+	•	Neue Routine
+	•	Weniger TikTok
+	•	Mehr Geld gespart
+
+⸻
+
+Abschluss-Screen
+
+Fynix (happy)
+
+Text:
+„Okay. Ich hab dich.
+Lass uns dein Leben ein kleines Stück weniger chaotisch machen.“
+
+Button:
+„Ab ins Feed“
+
+⸻
+
+⚙️ TECHNISCHE ANFORDERUNGEN
+	•	Mobile-first Web App (PWA)
+	•	Touch-optimiert
+	•	LocalStorage für State
+	•	Optional Backend für AI & Community
+
+⸻
+
+🎨 DESIGN-VORGABEN
+	•	Dark Mode only
+	•	Mystisch, modern
+	•	Dicke Cartoon-Linien
+	•	Kein Kinderbuch-Look
+	•	Swipe-optimiert
+
+⸻
+
+🚫 NON-GOALS
+	•	Kein klassischer To-Do-Tracker
+	•	Kein Paywall-Zwang
+	•	Keine Datensammelei
+
+⸻
+
+📊 ERFOLGSKRITERIEN (KPIs)
+	•	Daily Active Users
+	•	Durchschnittliche Session: 30–60 Minuten
+	•	Streak-Quote
+	•	XP-Zuwachs
+	•	Reduzierte Social-Media-Zeit
+
+⸻
+
+🏁 FAZIT
+
+Fynix ist kein Lernplaner.
+Fynix ist Dopamin mit Richtung.
